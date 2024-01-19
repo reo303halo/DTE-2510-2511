@@ -1,0 +1,9 @@
+a
+b
+c
+d
+e
+f
+g
+h
+Dette er slutten, og bør være starten i outputfilen.
